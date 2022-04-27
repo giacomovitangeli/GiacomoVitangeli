@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<br>
+<p align="center">
+  <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacomovitangeli&count_private=true&hide=issues,contribs)>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacomovitangeli&count_private=true&hide=issues,contribs)
+
 
 <!--
 **giacomovitangeli/GiacomoVitangeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
