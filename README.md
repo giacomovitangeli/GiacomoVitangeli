@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacomovitangeli&count_private=true&hide=issues,contribs&show_icons=true&theme=dark)
+<p align="center">
+  <a href="https://github.com/giacomovitangeli">
+    <img src="https://github-readme-stats.vercel.app/api?username=giacomovitangeli&count_private=true&show_icons=True&theme=dark&hide=issues,contribs" alt="Giacomo' Github Stats"/></a>
+</p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giacomovitangeli&layout=compact&theme=dark)
-
-
+<p align="center">
+  <a href="https://github.com/giacomovitangeli">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomovitangeli&layout=compact&show_icons=True&theme=dark"/>
+</p>
 
 
 <!--
