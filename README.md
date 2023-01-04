@@ -50,7 +50,10 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 ![STM32](https://img.shields.io/badge/-STM32-black?style=flat&logo=stm32)
 ![OMNeT++](https://img.shields.io/badge/-OMNeT%2B%2B-black?style=flat&logo=omnet%2B%2B)
 ![StarUML](https://img.shields.io/badge/-StarUML-black?style=flat&logo=staruml)
-
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat&logo=raspberry-pi)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat&logo=kali-linux)
+![Manjaro](https://img.shields.io/badge/-Manjaro-black?style=flat&logo=manjaro)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)
 
 ## Academic Background
 - M.Sc. in Cybersecurity, [University of Pisa](https://www.unipi.it/index.php/english) (2021 - present)
