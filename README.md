@@ -29,7 +29,7 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat&logo=matlab)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat&logo=latex)
 
-### Tools and Technologies:
+### Tools and Technologies
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat&logo=wireshark)
