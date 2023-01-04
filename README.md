@@ -3,13 +3,13 @@
 I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passion for understanding how things work and I'm particularly interested in cybersecurity and artificial intelligence. In my free time, I keep up to date with the state of the art in these fields.
 
 ## Projects
-- [Phishing Detection](https://github.com/giacomovitangeli/phishing-detection): supervised machine learning model to classify emails and detect spam and phishing ones (Python)
-- [Bayesian Network](https://github.com/giacomovitangeli/Structure-Learning-Bayesian-Network): structure learning with score-based approach using the K2 algorithm (R)
-- [Cloud Storage](https://github.com/giacomovitangeli/Applied-Cryptography): C++ client server application that resembles a cloud storage, implemented with the support of the OpenSSL library (C++/Java)
-- [Earthquake Detector](https://github.com/giacomovitangeli/EarthquakeDetector): OMNeT++ project to design distributed applications for intelligent environments in 6G technology (OMNeT++)
-- [Trusted Execution Environment](https://github.com/giacomovitangeli/Trusted-Execution-Environment): OCaml project to enforce language-based security for mobile code (OCaml)
-- [Light Hash AES S-box](https://github.com/giacomovitangeli/Hardware-and-Embedded-Security): hardware module for security designed in SystemVerilog (SystemVerilog)
-- [Automated Irrigation System](https://github.com/giacomovitangeli/Automated-Irrigation-System): Raspberry Pi project with sensors and actuators, Django server to display the data collected in real time (Python/Django)
+- [Phishing Detection](https://github.com/giacomovitangeli/phishing-detection): supervised machine learning model to classify emails and detect spam and phishing ones. (Python)
+- [Bayesian Network](https://github.com/giacomovitangeli/Structure-Learning-Bayesian-Network): structure learning with score-based approach using the K2 algorithm. (Python)
+- [Cloud Storage](https://github.com/giacomovitangeli/Applied-Cryptography): client server application that resembles a cloud storage, implemented with the support of the OpenSSL library. (C++)
+- [Earthquake Detector](https://github.com/giacomovitangeli/EarthquakeDetector): OMNeT++ project to design distributed applications for intelligent environments in 6G technology. (C++)
+- [Trusted Execution Environment](https://github.com/giacomovitangeli/Trusted-Execution-Environment): OCaml project to enforce language-based security for mobile code. (OCaml)
+- [Light Hash AES S-box](https://github.com/giacomovitangeli/Hardware-and-Embedded-Security): hardware module for security designed in SystemVerilog. (SystemVerilog)
+- [Automated Irrigation System](https://github.com/giacomovitangeli/Automated-Irrigation-System): Raspberry Pi project with sensors and actuators, Django server to display the data collected in real time (Python/Django∕HTML)
 
 ## Technical Skills
 - Proficient in Python, R, MATLAB, C, C++, Java, HTML, CSS, JavaScript, and SQL
