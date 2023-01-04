@@ -1,6 +1,5 @@
 # Hello World, I'm Giacomo 👋
 
-## About Me
 I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passion for understanding how things work and I'm particularly interested in cybersecurity and artificial intelligence. In my free time, I keep up to date with the state of the art in these fields.
 
 ## Projects
