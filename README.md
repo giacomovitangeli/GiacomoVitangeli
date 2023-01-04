@@ -69,7 +69,6 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 
 _NOTE: Top languages don't indicate my skill level, it's a github metric of languages I have the most on my github repos_
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giacomovitangeli&show_icons=true&theme=default)  
   
 ## Connect with me
   
