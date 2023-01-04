@@ -11,6 +11,9 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 - [Light Hash AES S-box](https://github.com/giacomovitangeli/Hardware-and-Embedded-Security): hardware module for security designed in SystemVerilog. (SystemVerilog)
 - [Automated Irrigation System](https://github.com/giacomovitangeli/Automated-Irrigation-System): Raspberry Pi project with sensors and actuators, Django server to display the data collected in real time (Python/Django∕HTML∕CSS∕JavaScript)
 
+## Programming Languages
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+
 ## Technical Skills
 - Proficient in Python, R, MATLAB, C, C++, Java, HTML, CSS, JavaScript, and SQL
 - Experienced with using tools such as Wireshark, BurpSuite, Linux, Windows, Docker, VirtualBox, and VMware
