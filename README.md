@@ -35,8 +35,14 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat&logo=jenkins)
+![Scrum](https://img.shields.io/badge/-Scrum-black?style=flat&logo=scrum)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-black?style=flat&logo=virtualbox)
 ![VMware](https://img.shields.io/badge/-VMware-black?style=flat&logo=vmware)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code)
+![CLion](https://img.shields.io/badge/-CLion-black?style=flat&logo=clion)
+![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat&logo=pycharm)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat&logo=intellij-idea)
+![Atom](https://img.shields.io/badge/-Atom-black?style=flat&logo=atom)
 
 
 ## Academic Background
