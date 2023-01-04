@@ -9,7 +9,7 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 - [Earthquake Detector](https://github.com/giacomovitangeli/EarthquakeDetector): OMNeT++ project to design distributed applications for intelligent environments in 6G technology. (C++)
 - [Trusted Execution Environment](https://github.com/giacomovitangeli/Trusted-Execution-Environment): OCaml project to enforce language-based security for mobile code. (OCaml)
 - [Light Hash AES S-box](https://github.com/giacomovitangeli/Hardware-and-Embedded-Security): hardware module for security designed in SystemVerilog. (SystemVerilog)
-- [Automated Irrigation System](https://github.com/giacomovitangeli/Automated-Irrigation-System): Raspberry Pi project with sensors and actuators, Django server to display the data collected in real time (Python/Django∕HTML)
+- [Automated Irrigation System](https://github.com/giacomovitangeli/Automated-Irrigation-System): Raspberry Pi project with sensors and actuators, Django server to display the data collected in real time (Python/Django∕HTML∕CSS∕JavaScript)
 
 ## Technical Skills
 - Proficient in Python, R, MATLAB, C, C++, Java, HTML, CSS, JavaScript, and SQL
