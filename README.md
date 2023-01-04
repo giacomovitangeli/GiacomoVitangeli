@@ -1,6 +1,10 @@
 # Hello World, I'm Giacomo 👋
 
 I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passion for understanding how things work and I'm particularly interested in cybersecurity and artificial intelligence. In my free time, I keep up to date with the state of the art in these fields.
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin
+[linkedin-url]: https://www.linkedin.com/in/giacomo-vitangeli
 
 ## Some Projects
 - [Phishing Detection](https://github.com/giacomovitangeli/phishing-detection): supervised machine learning model to classify emails and detect spam and phishing ones. (Python)
