@@ -35,6 +35,8 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat&logo=jenkins)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-black?style=flat&logo=virtualbox)
+![VMware](https://img.shields.io/badge/-VMware-black?style=flat&logo=vmware)
 
 
 ## Academic Background
