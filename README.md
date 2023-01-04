@@ -24,6 +24,8 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sql)
 ![R](https://img.shields.io/badge/-R-black?style=flat&logo=r)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat&logo=matlab)
+![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat&logo=latex)
+
 
 ### Tools and Technologies:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
@@ -43,6 +45,9 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat&logo=pycharm)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat&logo=intellij-idea)
 ![Atom](https://img.shields.io/badge/-Atom-black?style=flat&logo=atom)
+![STM32](https://img.shields.io/badge/-STM32-black?style=flat&logo=stm32)
+![OMNeT++](https://img.shields.io/badge/-OMNeT%2B%2B-black?style=flat&logo=omnet%2B%2B)
+![StarUML](https://img.shields.io/badge/-StarUML-black?style=flat&logo=staruml)
 
 
 ## Academic Background
