@@ -18,6 +18,9 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
+![OCaml](https://img.shields.io/badge/-OCaml-black?style=flat&logo=ocaml)
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-black?style=flat&logo=systemverilog)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -25,7 +28,6 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 ![R](https://img.shields.io/badge/-R-black?style=flat&logo=r)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat&logo=matlab)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat&logo=latex)
-
 
 ### Tools and Technologies:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
