@@ -33,6 +33,7 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 - Light Hash AES S-box: hardware module for security designed in SystemVerilog (SystemVerilog)
 - Automated Irrigation System: Raspberry Pi project with sensors and actuators, Django server to display the data collected in real time (Python/Django)
 
+## GitHub Stats
 <p align="center">
   <a href="https://github.com/giacomovitangeli">
     <img src="https://github-readme-stats.vercel.app/api?username=giacomovitangeli&count_private=true&show_icons=True&theme=dark&hide=issues,contribs" alt="Giacomo' Github Stats"/></a>
