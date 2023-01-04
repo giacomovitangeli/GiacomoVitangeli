@@ -57,7 +57,6 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 - B.Sc. in Computer Engineering, [University of Florence](https://www.unifi.it/changelang-eng.html) (2017 - 2021)
 
 ## GitHub Stats
-${{ secrets.PAT_2 }}
 <p align="center">
   <a href="https://github.com/giacomovitangeli">
     <img src="https://github-readme-stats.vercel.app/api?username=giacomovitangeli&count_private=true&show_icons=True&theme=dark&hide=issues,contribs" alt="Giacomo' Github Stats"/></a>
