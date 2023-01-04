@@ -13,15 +13,19 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 
 ## Technical Skills
 
-#### Programming Languages
+-> Programming Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sql)
+![R](https://img.shields.io/badge/-R-black?style=flat&logo=r)
+![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat&logo=matlab)
 
-## Technical Skills
-- Proficient in Python, R, MATLAB, C, C++, Java, HTML, CSS, JavaScript, and SQL
-- Experienced with using tools such as Wireshark, BurpSuite, Linux, Windows, Docker, VirtualBox, and VMware
-- Proficient in using Git and GitHub for version control
+-> Tools and Technologies
 
 ## Academic Background
 - M.Sc. in Cybersecurity, [University of Pisa](https://www.unipi.it/index.php/english) (2021 - present)
