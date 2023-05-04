@@ -57,8 +57,8 @@ I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passio
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)
 
 ## Academic Background
-- M.Sc. in Cybersecurity, [University of Pisa](https://www.unipi.it/index.php/english) (2021 - present)
-- B.Sc. in Computer Engineering, [University of Florence](https://www.unifi.it/changelang-eng.html) (2017 - 2021)
+- MSc in Cybersecurity, [University of Pisa](https://www.unipi.it/index.php/english) (2021 - present)
+- BSc in Computer Engineering, [University of Florence](https://www.unifi.it/changelang-eng.html) (2017 - 2021)
 
 ## GitHub Stats
 <p align="center">
