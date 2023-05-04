@@ -79,5 +79,5 @@ _NOTE: Top languages don't indicate my skill level, it's a github metric of lang
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin
-[linkedin-url]: https://www.linkedin.com/in/giacomo-vitangeli-877784193
+[linkedin-url]: https://www.linkedin.com/in/giacomovitangeli
   
