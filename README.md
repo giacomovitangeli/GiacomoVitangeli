@@ -3,10 +3,10 @@
 I am a M.Sc. student in Cybersecurity at the University of Pisa. I have a passion for understanding how things work and I'm particularly interested in cybersecurity and artificial intelligence. In my free time, I keep up to date with the state of the art in these fields.
 
 ## Some Projects
+- [Cloud Storage](https://github.com/giacomovitangeli/Applied-Cryptography): client server application that resembles a cloud storage, implemented with the support of the OpenSSL library. (C++)
 - [Phishing Detection](https://github.com/giacomovitangeli/phishing-detection): supervised machine learning model to classify emails and detect spam and phishing ones. (Python)
 - [DDoS Detection](https://github.com/giacomovitangeli/ddos-detection.git): comparison with supervised machine learning and deep learning models to detect DDoS attacks in network traffic. (Python)
 - [Bayesian Network](https://github.com/giacomovitangeli/Structure-Learning-Bayesian-Network): structure learning with score-based approach using the K2 algorithm. (Python)
-- [Cloud Storage](https://github.com/giacomovitangeli/Applied-Cryptography): client server application that resembles a cloud storage, implemented with the support of the OpenSSL library. (C++)
 - [Earthquake Detector](https://github.com/giacomovitangeli/EarthquakeDetector): OMNeT++ project to design distributed applications for intelligent environments in 6G technology. (C++)
 - [Trusted Execution Environment](https://github.com/giacomovitangeli/Trusted-Execution-Environment): OCaml project to enforce language-based security for mobile code. (OCaml)
 - [Light Hash AES S-box](https://github.com/giacomovitangeli/Hardware-and-Embedded-Security): hardware module for security designed in SystemVerilog. (SystemVerilog)
