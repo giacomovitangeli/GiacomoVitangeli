@@ -1,6 +1,6 @@
 # Hello World, I'm Giacomo 👋
 
-I am a MSc student in Cybersecurity at the University of Pisa. I have a passion for understanding how things work and I'm particularly interested in cybersecurity and artificial intelligence. In my free time, I keep up to date with the state of the art in these fields.
+I am a Cybersecurity Engineer passionate about understanding how things work, I'm particularly interested in cybersecurity and artificial intelligence. In my free time, I keep up to date with the state of the art in these fields.
 
 ## Projects
 - [Cloud Storage](https://github.com/giacomovitangeli/Applied-Cryptography): client server application that resembles a cloud storage, implemented with the support of the OpenSSL library. (C++)
@@ -57,7 +57,7 @@ I am a MSc student in Cybersecurity at the University of Pisa. I have a passion 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)
 
 ## Academic Background
-- MSc in Cybersecurity, [University of Pisa](https://www.unipi.it/index.php/english) (September 2021 - April 2024)
+- MSc in Cybersecurity, [University of Pisa](https://www.unipi.it/index.php/english) (September 2021 - May 2024)
 - BSc in Computer Engineering, [University of Florence](https://www.unifi.it/changelang-eng.html) (September 2017 - May 2021)
 
 ## GitHub Stats
