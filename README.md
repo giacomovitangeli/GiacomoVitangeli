@@ -57,7 +57,7 @@ I am a Cybersecurity Engineer passionate about understanding how things work, I'
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)
 
 ## Experience
-- Threat Intelligence Analyst, [EY](https://www.ey.com/) (Dec 2024 - Present)
+- Threat Intelligence Analyst, [EY ADVISORY S.p.A.](https://www.ey.com/) (Dec 2024 - Present)
 - Security Researcher, [Forescout Technologies Inc.](https://www.forescout.com/) (Sep 2023 - Mar 2024)
 - System Engineer, [ASP Solutions s.r.l](https://aspsolutions.it/) (Sep 2019 - Dec 2022)
 
